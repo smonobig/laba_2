@@ -40,4 +40,4 @@ spaCy - это библиотека для обработки естествен
 
 | Colab                                                                                                                                                                          | Info               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
-|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] |lab2|
+|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/smonobig/laba_2/blob/main/laba2.ipynb) |lab2|
